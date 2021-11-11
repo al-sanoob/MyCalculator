@@ -2,12 +2,18 @@
     width: 400px;
     height: 500px;
     background:rgba(145, 79, 106, 0.329);
-    margin-left: 36%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 35%;
     margin-top: 64px;
     border: solid 2px;
     border-color: white;
     border-radius: 10px;
+     /* position: relative; */
+     
+   
 }
+  
 #screen{
     width: 80%;
     height: 50px;
@@ -37,6 +43,7 @@
 body{
     background-image: url(./image/5172658.jpg);
     background-size: cover;
+height: 600px;
 }
 h1{
     font-weight: 800;
